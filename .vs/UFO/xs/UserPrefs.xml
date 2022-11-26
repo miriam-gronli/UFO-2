@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{F7835FD0-9810-4DA6-A80C-EED11F24933B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UFO PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UFO/Properties/launchSettings.json">
+    <Files>
+      <File FileName="UFO/ClientApp/src/app/app.module.ts" Line="2" Column="42" />
+      <File FileName="UFO/ClientApp/src/app/app.component.html" Line="1" Column="17" />
+      <File FileName="UFO/ClientApp/src/app/app.component.ts" Line="1" Column="1" />
+      <File FileName="UFO/ClientApp/src/app/app.server.module.ts" Line="1" Column="1" />
+      <File FileName="UFO/ClientApp/src/index.html" Line="1" Column="1" />
+      <File FileName="UFO/ClientApp/src/main.ts" Line="1" Column="1" />
+      <File FileName="UFO/Startup.cs" Line="1" Column="1" />
+      <File FileName="UFO/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UFO" expanded="True">
+            <Node name="UFO" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True" />
+                  <Node name="index.html" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
